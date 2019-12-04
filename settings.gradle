@@ -1,0 +1,2 @@
+include ':app', ':annotation', ':cusbutterKnife_compiler', ':cusbutterknife_library'
+rootProject.name='CusButterKife'
